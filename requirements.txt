@@ -11,3 +11,4 @@ schedule==1.2.1
 logzero==1.7.0
 TIME-python
 DateTime
+pyotp
